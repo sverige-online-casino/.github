@@ -14,9 +14,9 @@ Här hittar du information om nya casinon, bonusar, free spins och jämförelser
 
 | Casino | Status | Kommentar |
 |--------|---------|------------|
-| [Casino 1](https://k56thc2itt.com/?serial=53778&creative_id=1287&anid=SentinoSE&path=registration&retentionId=6ea75dae-5fbe-4550-b662-b83e4600a165&utm_source=sweden&utm_medium=Alina&utm_campaign=KingQONK&utm_term=SentinoSE
-| [Casino 2](https://k56thc2itt.com/?serial=53778&creative_id=1287&anid=SentinoSE&path=registration&retentionId=6ea75dae-5fbe-4550-b662-b83e4600a165&utm_source=sweden&utm_medium=Alina&utm_campaign=KingQONK&utm_term=SentinoSE
-| [Casino 3](https://k56thc2itt.com/?serial=53778&creative_id=1287&anid=SentinoSE&path=registration&retentionId=6ea75dae-5fbe-4550-b662-b83e4600a165&utm_source=sweden&utm_medium=Alina&utm_campaign=KingQONK&utm_term=SentinoSE
+| [Casino 1](https://k56thc2itt.com/?serial=53778&creative_id=1287&anid=SentinoSE&path=registration&retentionId=6ea75dae-5fbe-4550-b662-b83e4600a165&utm_source=sweden&utm_medium=Alina&utm_campaign=KingQONK&utm_term=SentinoSE)
+| [Casino 2](https://k56thc2itt.com/?serial=53778&creative_id=1287&anid=SentinoSE&path=registration&retentionId=6ea75dae-5fbe-4550-b662-b83e4600a165&utm_source=sweden&utm_medium=Alina&utm_campaign=KingQONK&utm_term=SentinoSE)
+| [Casino 3](https://k56thc2itt.com/?serial=53778&creative_id=1287&anid=SentinoSE&path=registration&retentionId=6ea75dae-5fbe-4550-b662-b83e4600a165&utm_source=sweden&utm_medium=Alina&utm_campaign=KingQONK&utm_term=SentinoSE)
 
 ---
 
