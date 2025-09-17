@@ -1,0 +1,18 @@
+# robots.txt för sverige-online-casino
+# Hjälper sökmotorer att indexera relevant innehåll
+
+User-agent: *
+Allow: /
+
+Disallow: /issues/
+Disallow: /pulls/
+Disallow: /actions/
+Disallow: /projects/
+Disallow: /archive/
+Disallow: /*.zip$
+Disallow: /*.tar.gz$
+
+Allow: /wiki/
+Allow: /discussions/
+
+Sitemap: https://raw.githubusercontent.com/<username>/sverige-online-casino/main/sitemap.xml
